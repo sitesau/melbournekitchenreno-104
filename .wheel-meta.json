@@ -1,0 +1,22 @@
+{
+  "wheel_id": 547,
+  "structure": "umbrella",
+  "slug": "melbournekitchenreno-104",
+  "project": "kitchen-renovations-melbourne-budget-tips-9dc3458812160287d8df8",
+  "parent_t1_ref": "melbournekitchenreno-151",
+  "node_role": "feeder",
+  "money_target": "melbournekitchenreno.com.au",
+  "primary_kw": "kitchen renovations melbourne budget tips",
+  "intended_url": "https://sitesau.github.io/melbournekitchenreno-104/",
+  "tier": "T2",
+  "writeback_nonce": "0d4c71b6bf89edb5",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/kitchen-renovations-melbourne-local-options-compared-aa1ab15bc8/",
+      "anchor": "this guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
